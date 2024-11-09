@@ -1,6 +1,5 @@
 import { Anc } from "./components/anchor";
 import { Heading1, Heading2, Heading3 } from "./components/headings";
-import { Images } from "./components/images";
 import { Para, SubPara } from "./components/para";
 
 
